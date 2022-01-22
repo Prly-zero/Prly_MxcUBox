@@ -1,4 +1,1 @@
-Prly_MxcUBox
-PMUB工具箱
-由于技术有限,UI界面和功能组件将会采用不同的语言开发
-不同的部分会采用文件夹来区分
+#Prly_MxcUBox
